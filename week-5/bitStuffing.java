@@ -77,4 +77,5 @@ public class bit_stuffing
       }
     System.out.println ("Destuffed BIT is: " + output);
   }
-  Footer
+}
+
