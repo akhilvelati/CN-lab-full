@@ -1,4 +1,4 @@
-//sender
+//server side
 import java.io.*;
 import java.net.*;
 import java.util.*;
@@ -38,7 +38,7 @@ public class myreceiver {
   }
 
 }
-//reciver
+//client side
 import java.io.*;
 import java.net.*;
 public class mysender {
